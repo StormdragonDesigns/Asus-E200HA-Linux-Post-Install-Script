@@ -1,3 +1,15 @@
+# The only file that has been changed is "e200ha_with_sound.sh"
+
+If there is enough interest, I will attempt to convert all the other packages to work with Arch and Manjaro.
+
+The changes only work if you are using systemd.
+
+**THIS SCRIPT ACCESSES AUR WITHOUT CONFIRMATION. PLEASE BE CAUTIOUS AND CHEcK THE SCRIPT AND AUR BEFORE PROCEEDING**
+
+I'm using this script for my own computer, so if there are any bugs I encounter, I will attempt to fix them myself.
+
+*Below is the original README*
+
 # Asus E200HA and X206HA Linux Post Install Script
 A Linux Post install script for The Asus E200HA, X206HA and other Intel Cherry Trail Devices.
 
