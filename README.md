@@ -4,7 +4,7 @@ If there is enough interest, I will attempt to convert all the other packages to
 
 The changes only work if you are using systemd.
 
-**THIS SCRIPT ACCESSES AUR WITHOUT CONFIRMATION. PLEASE BE CAUTIOUS AND CHEcK THE SCRIPT AND AUR BEFORE PROCEEDING**
+**THIS SCRIPT ACCESSES AUR WITHOUT CONFIRMATION. PLEASE BE CAUTIOUS AND CHECK THE SCRIPT AND AUR BEFORE PROCEEDING**
 
 I'm using this script for my own computer, so if there are any bugs I encounter, I will attempt to fix them myself.
 
